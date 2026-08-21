@@ -238,7 +238,7 @@ The URL analyzer identifies suspicious characteristics and provides a risk score
 
 **Result:** 🚨 Potential Phishing Detected
 
-**Model Confidence:** 63.63%
+**Model Confidence:** 77.81%
 
 ---
 
@@ -246,7 +246,7 @@ The URL analyzer identifies suspicious characteristics and provides a risk score
 
 **Result:** ✅ Likely Legitimate
 
-**Model Confidence:** 61.17%
+**Model Confidence:** 76.70%
 
 ---
 
